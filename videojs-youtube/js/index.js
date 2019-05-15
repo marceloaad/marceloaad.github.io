@@ -630,4 +630,7 @@ THE SOFTWARE. */
 }));
 
 
-_vplayer = videojs('vid1')
+_vplayer = videojs('vid1');
+_vplayer2 = videojs('vid2');
+_vplayer3 = videojs('vid3');
+_vplayer4 = videojs('vid4');
